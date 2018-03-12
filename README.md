@@ -1,2 +1,2 @@
 # Deep-Learning
-## I'll upload deep learning books and papers into it. 
+## I'll upload math, algorithm, machine learning and deep learning books and papers into it. 
